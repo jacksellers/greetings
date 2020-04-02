@@ -1,4 +1,4 @@
-# oodle
+# greetings
 
 
 ### Description
@@ -6,8 +6,8 @@
 
 ### Installation
 ```
-git clone https://github.com/jackwsellers/oodle.git
-cd oodle
+git clone https://github.com/jackwsellers/greetings.git
+cd greetings
 virtualenv appenv
 source appenv/bin/activate
 pip install -r requirements.txt
