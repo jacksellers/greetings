@@ -1,6 +1,6 @@
 # greetings
 ### Description
-A simple REST API that recieves a time zone and returns the appropriate greeting
+A simple REST API that recieves a time zone and returns the appropriate greeting.
 ### Installation
 ```
 git clone https://github.com/jackwsellers/greetings.git
@@ -20,7 +20,7 @@ Run the server:
 ```
 python manage.py runserver
 ```
-Visit http://127.0.0.1:8000/greetings/ to post your time_zone using the browsable API
+Visit http://127.0.0.1:8000/greetings/ to post your time_zone using the browsable API.
 
 The time_zone field must be of the format 'GMT+HH:MM' or 'GMT-HH:MM' where HH:MM denotes the time offset.
 
