@@ -1,6 +1,6 @@
 # greetings
 ### Description
-A simple REST API that recieves a time zone and returns the appropriate greeting.
+A REST API that recieves a time zone and returns the appropriate greeting.
 ### Installation
 ```
 git clone https://github.com/jackwsellers/greetings.git
